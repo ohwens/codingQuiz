@@ -1,14 +1,6 @@
 header {
     display: flex;
     justify-content: space-between;
-}
-
-.highscores {
-    font-size: larger;
-    font-weight: 700;
-}
-
-.timer {
     font-size: larger;
     font-weight: 700;
 }
@@ -18,7 +10,7 @@ main {
     justify-content: center;
 }
 
-.quizBegin {
+#quizBegin {
     align-items: center;
     justify-content: center;
     display: flex;
